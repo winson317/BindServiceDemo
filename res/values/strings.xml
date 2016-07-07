@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StartService</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bind">绑定Service</string>
+    <string name="unbind">解除绑定Service</string>
+    <string name="getServiceStatus">获取Service状态</string>
+
+</resources>
